@@ -9,7 +9,6 @@ Dominar estas herramientas es esencial para construir software **escalable**. En
 * **Estado Global**: Herramientas ligeras y potentes como **Zustand** o **Recoil** han simplificado la gestión de datos compartidos, sustituyendo la complejidad de *Redux* en muchos proyectos.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/reduxvszustand.jpg" width="40%" height="40%" style="display: block; margin: 0 auto" />
 </a>
 </p>
@@ -17,7 +16,6 @@ Dominar estas herramientas es esencial para construir software **escalable**. En
 * **Gestión de Datos**: Para la sincronización con servidores, **TanStack Query** (antes React Query) o **SWR** se han vuelto imprescindibles para manejar el caché y la carga asíncrona de forma eficiente.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/tanstack-vs-swr.webp" width="40%" height="40%" style="display: block; margin: 0 auto" />
 </a>
 </p>
@@ -25,7 +23,6 @@ Dominar estas herramientas es esencial para construir software **escalable**. En
 * **Formularios y Validación**: La captura de datos se vuelve segura y sencilla combinando **React Hook Form** con librerías de esquemas como **Zod**, garantizando integridad de tipos desde el cliente.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/zod.png" width="40%" height="40%" style="display: block; margin: 0 auto" />
 </a>
 </p>
@@ -33,7 +30,6 @@ Dominar estas herramientas es esencial para construir software **escalable**. En
 * **Componentes de UI**: La velocidad de desarrollo se potencia con sistemas de diseño como **Material UI** (MUI) o **Chakra UI**, que ofrecen componentes accesibles y estéticos listos para usar.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/Chakra-vs-MUI-1024x512.webp" width="40%" height="40%" style="display: block; margin: 0 auto" />
 </a>
 </p>
