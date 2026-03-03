@@ -102,7 +102,7 @@ Como vemos aqui tenemos varios apartados importantes:
 <p align="center"> 
 <a href="https://www.freecodecamp.org/news/how-to-use-react-context/">
 <img src="./img/ContextAPI.webp" width="80%" height="80%" style="display: block; margin: 0 auto" />
-</a>
+</a><br>
 <i><a href="https://www.freecodecamp.org/news/how-to-use-react-context/">Aqui podeis encontrar un ejemplo práctico para cambiar el color de apariencia de una web</a></i>
 </p>
 
