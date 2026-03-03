@@ -40,7 +40,6 @@ MUI incluye una gran variedad de componentes, entre los más usados están:
 Aqui podeis ver algunos de los ejemplos mas tipicos de utilización de elementos que podemos utilizar con MUI.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/MUI.png" width="80%" height="80%" style="display: block; margin: 0 auto" />
 </a>
 </p>
@@ -67,7 +66,6 @@ Cada componente tiene diferentes cariantes de colores y configuración de aspect
 Veamos algunas opciones y como quedarian en el navegador.
 
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/MUI_Button.png" width="100%" height="100%" style="display: block; margin: 0 auto" />
 </a>
 </p>
@@ -114,7 +112,55 @@ export default App
 
 ```
 <p align="center"> 
-<a href="https://www.youtube.com/watch?v=9GaCyok0DEU">
 <img src="./img/MUI_TextField.png" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a>
 </p>
+
+Una de las opciones de MUI es que no solo ofrece componentes, sino también un sistema de diseño completo:
+
+* Sistema de temas (Theme Provider)
+* Modo claro y modo oscuro
+* Personalización de colores
+* Tipografías configurables
+* Sistema de espaciado
+* Diseño responsive
+
+Esto significa que puedes mantener coherencia visual en toda tu aplicación con una configuración centralizada. Eso si, el este camino implica una curva de aprendizaje con el sistema de customización implementado por MUI.
+
+MUI se utiliza principalmente cuando **se necesita desarrollar rápidamente una interfaz de usuario (UI) profesional**, consistente y responsiva. Es ideal para acelerar el desarrollo de aplicaciones web y móviles, reduciendo el tiempo de creación de componentes desde cero.
+
+## ShadCN 
+
+**ShadCN** UI es una biblioteca relativamente nueva pero que está ganando terreno rápido, especialmente entre desarrolladores que usan *Tailwind CSS*. Su filosofía es simple: **ofrecer componentes React sin estilos visuales predefinidos**, limitándose a la funcionalidad y estructura. Eso permite un control muy grande sobre el diseño, usando directamente las utilidades de Tailwind.
+
+<p align="center"> 
+<img src="./img/ShadCN.png" width="60%" height="60%" style="display: block; margin: 0 auto" />
+</a>
+</p>
+
+### Ventajas que ofrece
+
+* **Flexibilidad** absoluta: Puedes crear tu tema y estilo sin pelear con estilos que no te gustan y tienes un control completo.
+* **Ligereza y rendimiento**: Los componentes no agregan peso innecesario, mejorando performance.
+* **Integración** perfecta con **Tailwind**: Si ya conoces Tailwind, te sentirás en casa.
+* **Código modular y claro**: Al separar estructura y estilos, se mantiene el código limpio y fácil de mantener.
+
+### Limitaciones
+
+* Curva de aprendizaje inicial alta: Si no dominas Tailwind, puede parecer complejo al principio.
+* Menos componentes listos: Aunque la comunidad crece, aún no tiene la cantidad de widgets completos que Material UI ofrece.
+* Accesibilidad bajo tu responsabilidad: A diferencia de Material UI, no viene “listo para usar” en términos de ARIA y soporte para todos los usuarios.
+
+### Utilización de la librería
+
+En este caso, el funcionamiento de la librería y la de sus componentes es un poco diferente a la de MUI. Pero lo bueno es que en la documentación oficial podréis encontrar multitud de ejemplos y ayuda para su utilización ([Pagina oficial](https://ui.shadcn.com/)).
+
+Aqui teneis un sencillo video para configurar ShadCN utilizando Vite y JS (se siguen los mismos pasos que en el [tutorial](https://ui.shadcn.com/docs/installation/vite) de la pagina oficial).
+
+<p align="center"> 
+<a href="https://www.youtube.com/watch?v=aMX_DYK5LAk">
+<img src="./img/vite_shadcn.jpeg" width="60%" height="60%" style="display: block; margin: 0 auto" />
+</a>
+</p>
+
+Una vez visto como instalar y trabajar con un componente, podemos empezar a ver como trabajar con el resto de componentes de ShadCN. La propia página tiene una lista con todos los [componentes](https://ui.shadcn.com/docs/components) utilizables con ejemplos y código para su descarga.
