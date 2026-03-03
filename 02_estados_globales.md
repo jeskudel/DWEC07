@@ -269,6 +269,6 @@ Por otro lado, **useState** es una característica de React que se utiliza para 
 <p align="center"> 
 <a href="https://medium.com/@nirpendra09/getting-started-with-zustand-in-react-fe02c1bb2cee">
 <img src="./img/Zustand.webp" width="80%" height="80%" style="display: block; margin: 0 auto" />
-</a>
+</a><br>
 <i><a href="https://medium.com/@nirpendra09/getting-started-with-zustand-in-react-fe02c1bb2cee">Aqui podeis encontrar un ejemplo práctico mas completo (y caracteristicas más avanzadas)</a></i>
 </p>
