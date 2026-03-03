@@ -169,7 +169,7 @@ Esto es exactamente lo que ocurre en una aplicación de React con un solo compon
 <p align="center"> 
 <a href="https://www.paradigmadigital.com/dev/como-implementar-redux-react-hooks/">
 <img src="./img/redux.jpg" width="80%" height="80%" style="display: block; margin: 0 auto" />
-</a>
+</a><br>
 <i><a href="https://www.paradigmadigital.com/dev/como-implementar-redux-react-hooks/">Aqui podeis encontrar un ejemplo práctico mas completo</a></i><br>
 <i><a href="https://embed17.medium.com/getting-started-with-redux-in-reactjs-310317-92a1d895d408">Otro ejemplo práctico mas completo</a></i>
 </p>
