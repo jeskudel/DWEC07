@@ -124,7 +124,7 @@ export default Gallery
 
 <p align="center"> 
 <a href="https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c">
-<img src="./img/tanstack.webp" width="80%" height="80%" style="display: block; margin: 0 auto" />
+<img src="./img/tanstack.webp" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
 <i><a href="https://medium.com/@ignatovich.dm/tanstack-query-a-powerful-tool-for-data-management-in-react-0c5ae6ef037c">Aqui podeis encontrar un ejemplo práctico mas completo</a></i>
 </p>
@@ -159,7 +159,7 @@ Una solicitud puede tener tres estados: "carga", "listo" o "error". El estado ac
 
 <p align="center"> 
 <a href="https://swr.vercel.app/docs/getting-started">
-<img src="./img/swr.avif" width="80%" height="80%" style="display: block; margin: 0 auto" />
+<img src="./img/swr.avif" width="60%" height="60%" style="display: block; margin: 0 auto" />
 </a><br>
 <i><a href="https://swr.vercel.app/docs/getting-started">Aqui podeis encontrar un ejemplo de la página oficial</a></i>
 </p>
